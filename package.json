@@ -1,0 +1,19 @@
+{
+  "name": "layx-win-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vw331/character-animation.git"
+  },
+  "author": "sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vw331/character-animation/issues"
+  },
+  "homepage": "https://github.com/vw331/character-animation#readme"
+}
